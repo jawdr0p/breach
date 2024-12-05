@@ -1,10 +1,10 @@
 // Card data
 const cards = [
-  { image: 'images/card1.png', probability: 0.1}, // 6.25%
-  { image: 'images/card2.png', probability: 0.1 }, // 6.25%
-  { image: 'images/card3.png', probability: 0.1 }, // 6.25%
-  { image: 'images/card4.png', probability: 0.1 }, // 6.25%
-  { image: 'images/card5.png', probability: 0.6 }, // 75%
+  { image: '/images/Card1.png', probability: 0.1}, // 6.25%
+  { image: '/images/Card2.png', probability: 0.1 }, // 6.25%
+  { image: '/images/Card3.png', probability: 0.1 }, // 6.25%
+  { image: '/images/Card4.png', probability: 0.1 }, // 6.25%
+  { image: '/images/Card5.png', probability: 0.6 }, // 75%
 ];
 
 let lastCard = null;
